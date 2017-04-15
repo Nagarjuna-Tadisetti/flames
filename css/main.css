@@ -1,0 +1,66 @@
+.main-div {
+	background-image: url("../img/background.jpg");
+	height: 800px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center top;
+}
+
+.heading {
+	text-align:  center;
+	margin-top: 50px;
+	color: white;
+	font-size: 60px;
+}
+
+.names-form {
+	padding-top: 50px;
+	text-align: center;
+}
+
+.names-form input {
+	margin-bottom: 20px;
+	color : white;
+	
+	background-color: rgba(207, 207, 207, 0.5);
+	border: 1px white solid;
+}
+
+.btn {
+	margin: 0 auto;
+	padding: 8px 65px;
+	background: none;
+	font-weight: 400;
+	border: 1px white solid;
+	color: white;
+}
+
+.flames-div {
+	display: none;
+	padding-top: 50px;
+	color : white;
+	font-size : 30px;
+}
+
+.flames-div div {
+	text-align: center;
+}
+.flames-div p {
+	display: inline;
+}
+.show-char {
+
+}
+.hide-char {
+	
+}
+.flames-output {
+	font-size: 40px; 
+}
+.flames-letters {
+	padding-top: 40px;
+	font-size: 30px;
+}
+.flames-output-div {
+	padding-top: 20px;
+}
